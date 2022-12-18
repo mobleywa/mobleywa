@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobleywa
-- 👀 I’m interested in Java and python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in HTML, JavaScript, Java, SQL and Python
+- 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on a idea i have for database management system
 - 📫 How to reach me e-mail: mobleywa@icloud.com
 
